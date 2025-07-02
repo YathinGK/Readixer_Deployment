@@ -1,0 +1,9 @@
+Flask
+flask-cors
+opencv-python-headless
+numpy<2
+reportlab
+google-cloud-vision
+google-auth
+google-auth-oauthlib
+PyPDF2
