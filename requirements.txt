@@ -7,3 +7,6 @@ google-cloud-vision
 google-auth
 google-auth-oauthlib
 PyPDF2
+spacy
+scikit-learn
+fpdf
